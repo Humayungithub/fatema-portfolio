@@ -1,7 +1,6 @@
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
-  display: flex;
   color: #333;
   background: #fff;
 }
@@ -62,15 +61,20 @@ p {
   padding-left: 50px;
 }
 .half-width img {
-  width: 100%;
+  width: 80%;
 }
 .top-banner {
-  background-image: url("images/top-banner.jpg");
+  background-image: url("images/bg-top.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-banner {
+  background-image: url("images/bg-about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
 section {
-  height: 600px;
+  height: 700px;
   padding-bottom: 150px;
   width: 100%;
 }
