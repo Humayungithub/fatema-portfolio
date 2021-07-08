@@ -20,7 +20,7 @@ This Project is created with:
 
 # ScreenShot
 
-![ScreenShot](https://raw.github.com//Humayungithub/fatema-portfolio/main/screenshot.jpg)
+![ScreenShot](https://raw.github.com//Humayungithub/fatema-site/assets/files/main/screenshot.jpg)
 
 # Visit Live
 
