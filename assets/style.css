@@ -73,6 +73,11 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.instafeed-banner {
+  background-image: url("images/bg-instafeed.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 section {
   height: 700px;
   padding-bottom: 150px;
@@ -85,4 +90,11 @@ section {
   border-radius: 5px;
   color: white;
   font-weight: 700;
+}
+.insta-post {
+  width: 15%;
+  float: left;
+  margin-top: 100px;
+  margin-left: 10%;
+  padding-left: 50px;
 }
